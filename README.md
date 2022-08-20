@@ -1,5 +1,8 @@
-# week
-주간업무
-2020.1.2 제작
-2020.1.2 초기화
+#JangGu
 
+장구
+
+2022.08.03.수 제작
+
+ 
+git clone https://github.com/kimdaehee5609/JangGu.git
